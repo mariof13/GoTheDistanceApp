@@ -1,5 +1,7 @@
 ﻿Go The Distance!
 
+Video: https://youtu.be/woqCu2xKz98
+
 Project Description:
 
 This app is called a tip calculator, but I can assure you, this is no ordinary tip calculator. Not even an advanced tip calculator. Even more.
